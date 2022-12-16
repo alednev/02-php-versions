@@ -1,0 +1,17 @@
+{
+  "name": "php-versions/7-4",
+  "authors": [
+    {
+      "name": "Alex Lednev",
+      "email": "alexlednev@gmail.com"
+    }
+  ],
+  "require": {
+    "illuminate/support": "^7.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
